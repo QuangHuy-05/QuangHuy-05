@@ -13,7 +13,6 @@ I'm Quang Huy, and i'm learning Computer Science at HCM University Of Technology
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
