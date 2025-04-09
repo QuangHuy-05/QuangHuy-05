@@ -11,12 +11,13 @@ I'm Quang Huy, and i'm learning Computer Science at HCM University Of Technology
     <th>Backend</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+    <td>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <td>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-003B57?style=for-the-badge&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
     </td>
   </tr>
