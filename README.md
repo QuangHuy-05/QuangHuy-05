@@ -9,6 +9,7 @@ I'm Quang Huy, and i'm learning Computer Science at HCM University Of Technology
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
+    <th>Other Languages</th>
   </tr>
   <tr>
     <td>
@@ -19,6 +20,9 @@ I'm Quang Huy, and i'm learning Computer Science at HCM University Of Technology
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/C-003B57?style=for-the-badge&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     </td>
   </tr>
 </table>
