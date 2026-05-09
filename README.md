@@ -1,7 +1,7 @@
 # Somethting About Me
 I'm Quang Huy, and i'm learning Computer Science at HCM University Of Technology  
 - 👋 Hi, I’m @QuangHuy-05
-- 🌱 I’m currently learning Basic Data Engineering
+- 🌱 I’m currently learning AI ENGINEER
 
 ## My Skill set
 
